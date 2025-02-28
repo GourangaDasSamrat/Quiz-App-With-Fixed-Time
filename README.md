@@ -1,8 +1,8 @@
-# 🚀 Quiz App With Fixed Time ⏱️
+# Quiz App With Fixed Time ⏱️
 A responsive and engaging quiz application built with HTML, CSS, and JavaScript. Test your knowledge within a fixed time frame and get instant feedback! 🧠
 
 🌟 **Live Demo**
-Check out the live version of the website: [Pixel Art  Generator](https://quizappbygouranga.netlify.app/)
+Check out the live version of the website: [Quiz App With Fixed Time ⏱️](https://quizappbygouranga.netlify.app/)
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
