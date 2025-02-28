@@ -8,6 +8,14 @@ Check out the live version of the website: [Pixel Art  Generator](https://quizap
 Watch the video walkthrough of the project to see it in action!
 
 
+
+https://github.com/user-attachments/assets/61f9bd56-7bee-410f-a8a0-47dc2860ae54
+
+
+
+https://github.com/user-attachments/assets/07c3dc18-3d25-4722-98d4-d092c0b2cd2f
+
+
 ## ✨ Features
  * 📱 Fully Responsive:  Experience seamless quiz-taking on any device, from desktops to mobile phones. The layout adapts beautifully to different screen sizes.
  * ✅ Instant Feedback: Get immediate feedback on your answers.
