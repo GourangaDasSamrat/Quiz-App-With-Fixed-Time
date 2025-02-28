@@ -2,7 +2,7 @@
 A responsive and engaging quiz application built with HTML, CSS, and JavaScript. Test your knowledge within a fixed time frame and get instant feedback! 🧠
 
 🌟 **Live Demo**
-Check out the live version of the website: [Pixel Art  Generator]()
+Check out the live version of the website: [Pixel Art  Generator](https://quizappbygouranga.netlify.app/)
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
@@ -46,7 +46,7 @@ Watch the video walkthrough of the project to see it in action!
 
 or
 
-**[Click here]() to see this project on internet.**
+**[Click here](https://quizappbygouranga.netlify.app/) to see this project on internet.**
 
 ## 📜 License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
