@@ -35,23 +35,90 @@
 
 ## 🎥 Demo & Preview
 
-Watch the video walkthrough of the project to see it in action!
+<div align="center">
 
-https://github.com/user-attachments/assets/61f9bd56-7bee-410f-a8a0-47dc2860ae54
+### 🎬 Video Walkthrough
 
-https://github.com/user-attachments/assets/07c3dc18-3d25-4722-98d4-d092c0b2cd2f
+<table>
+<tr>
+<td align="center">
 
-## ✨ Features
+#### Coming Soon! 🚀
 
-- 📱 Fully Responsive: Experience seamless quiz-taking on any device, from desktops to mobile phones. The layout adapts beautifully to different screen sizes.
-- ✅ Instant Feedback: Get immediate feedback on your answers.
-  - Correct Answer: See a confirmation instantly upon selecting the right option. 🎉
-  - Incorrect Answer: Know right away when you've made a mistake, and the correct answer will be clearly displayed to help you learn. 🧐
-- ❓ 5-Question Quizzes: Each quiz consists of 5 carefully selected questions to provide a quick yet challenging experience.
-- 📊 Score & Replay: At the end of each quiz, your score is displayed, showing how many questions you answered correctly. You'll have the option to:
-  - Quit Quiz: Exit the quiz application. 🚪
-  - Replay Quiz: Test yourself again with a fresh attempt. 🔄
-- 🎨 Attractive & User-Friendly Design: Enjoy a visually appealing and intuitive interface, making the quiz experience enjoyable and easy to navigate.
+We're preparing an amazing video walkthrough of the Quiz App features and functionality.
+Stay tuned for an in-depth demonstration of:
+
+- User interface walkthrough
+- Quiz-taking experience
+- Real-time feedback system
+- Score tracking and progress
+
+_Subscribe to our [YouTube Channel](https://www.youtube.com/@GourangaDasSamrat) for updates!_
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## ✨ Key Features
+
+<div align="center">
+
+| Feature                  | Description                                                            |
+| ------------------------ | ---------------------------------------------------------------------- |
+| 📱 **Responsive Design** | Experience seamless quiz-taking on any device - from mobile to desktop |
+| ✅ **Smart Feedback**    | Get instant feedback on your answers with visual cues                  |
+| ⏱️ **Timed Questions**   | Challenge yourself with time-limited questions                         |
+| 🎯 **Progress Tracking** | Monitor your progress with a clean, intuitive interface                |
+| 🔄 **Quick Replay**      | Instantly restart and try to beat your previous score                  |
+
+</div>
+
+### Detailed Features
+
+<table align="center">
+<tr>
+<td>
+
+#### 📱 Full Responsiveness
+
+- Seamless experience across all devices
+- Beautifully adaptive layout
+- Touch-friendly interface
+
+</td>
+<td>
+
+#### ✅ Instant Feedback
+
+- Real-time answer validation
+- Color-coded responses
+- Detailed explanations
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### ❓ Smart Quiz Flow
+
+- 5 carefully curated questions
+- Progressive difficulty
+- Time-based challenges
+
+</td>
+<td>
+
+#### 🎨 User Experience
+
+- Clean, modern interface
+- Intuitive navigation
+- Engaging animations
+
+</td>
+</tr>
+</table>
 
 ## ⚡ Core Technologies
 
@@ -63,40 +130,130 @@ https://github.com/user-attachments/assets/07c3dc18-3d25-4722-98d4-d092c0b2cd2f
 
 </div>
 
-## 🚀 How to Use
+## 🎮 User Guide
 
-- Start Quiz: Open the Quiz App in your web browser. You will be presented with the first question. 🚀
-- Answer Questions: Carefully read each question and select the answer option you believe is correct by clicking on it. 🤔
-- Instant Feedback:
-  - Correct Answer: If you choose the right answer, you will see a green confirmation message instantly. ✅
-  - Incorrect Answer: If you choose the wrong answer, you will see a red error message, and the correct answer will be highlighted in green. ❌
-- Continue to Next Question: After receiving feedback, proceed to the next question. There are a total of 5 questions in each quiz. ➡️
-- View Your Score: Once you have answered all 5 questions, your final score will be displayed, showing the number of correct answers. 🏆
-- Quiz Options: After viewing your score, you have two options:
-  - Replay Quiz: Click the "Replay Quiz" button to start a new quiz with the same set of questions. 🔄
-  - Quit Quiz: Click the "Quit Quiz" button to exit the quiz application. 🚪
+<div align="center">
+
+### Quick Start Flow
+
+```mermaid
+graph LR
+    A[Start Quiz] -->|Open App| B[First Question]
+    B -->|Select Answer| C[Get Feedback]
+    C -->|Next Question| D[Complete Quiz]
+    D -->|View Score| E[Choose Option]
+    E -->|Replay| B
+    E -->|Exit| F[End]
+```
+
+</div>
+
+### 📝 Step-by-Step Instructions
+
+<table align="center">
+<tr>
+<td width="50%">
+
+#### 1️⃣ Starting the Quiz
+
+- Launch the quiz in your browser
+- Click 'Start Quiz' to begin
+- Timer starts automatically
+
+</td>
+<td width="50%">
+
+#### 2️⃣ Answering Questions
+
+- Read each question carefully
+- Select your answer with a click
+- Watch for the feedback indicator
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 3️⃣ Getting Feedback
+
+- ✅ Green highlight for correct answers
+- ❌ Red highlight for incorrect answers
+- View correct answer explanation
+
+</td>
+<td>
+
+#### 4️⃣ Completing the Quiz
+
+- Track your progress (5 questions total)
+- View final score and performance
+- Choose to replay or exit
+
+</td>
+</tr>
+</table>
+
+### 🎯 Pro Tips
+
+- Take your time reading each question
+- Watch the timer to pace yourself
+- Review explanations to learn from mistakes
+- Try beating your previous scores
 
 ## 🚀 Getting Started
 
-### Prerequisites
+<div align="center">
 
-- A modern web browser
-- Git (optional, for cloning)
+### Quick Setup Options
 
-### Installation
+| 🌐 Online Demo                                           | 💻 Local Setup           |
+| -------------------------------------------------------- | ------------------------ |
+| [Launch App Now](https://quizappbygouranga.netlify.app/) | Follow setup steps below |
+| No installation needed                                   | Full source code access  |
+| Instant access                                           | Customizable             |
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/GourangaDasSamrat/Quiz-App-With-Fixed-Time.git
-   ```
-2. **Navigate to project directory**
-   ```bash
-   cd Quiz-App-With-Fixed-Time
-   ```
-3. **Open in browser**
-   - Double click `index.html` or open it with your favorite browser
+</div>
 
-### 🌐 Quick Access
+### 🔧 Local Development Setup
+
+<table align="center">
+<tr>
+<td>
+
+#### Prerequisites
+
+- Modern web browser
+- Git (optional)
+- Text editor (optional)
+
+</td>
+<td>
+
+#### One-Click Setup
+
+1. Download ZIP
+2. Extract files
+3. Open index.html
+
+</td>
+</tr>
+</table>
+
+### ⚡ Developer Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/GourangaDasSamrat/Quiz-App-With-Fixed-Time.git
+
+# Navigate to project
+cd Quiz-App-With-Fixed-Time
+
+# Open in browser
+xdg-open index.html  # Linux
+# or just double-click index.html
+```
+
+### 🌐 Instant Access
 
 Want to try it out right away? Access the live version:
 
