@@ -6,7 +6,7 @@
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-id/deploy-status)](https://quizappbygouranga.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/882be742-c78d-43b3-9720-ef808d67566d/deploy-status)](https://app.netlify.com/projects/quizappbygouranga/deploys)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GourangaDasSamrat/Quiz-App-With-Fixed-Time/graphs/commit-activity)
 [![GitHub stars](https://img.shields.io/github/stars/GourangaDasSamrat/Quiz-App-With-Fixed-Time?style=social)](https://github.com/GourangaDasSamrat/Quiz-App-With-Fixed-Time/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
