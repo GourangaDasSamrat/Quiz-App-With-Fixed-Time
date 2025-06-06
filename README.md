@@ -215,7 +215,7 @@ Feel free to contribute, fork, and use this project! If you have any suggestions
 <p align="center">
   <a href="https://github.com/GourangaDasSamrat" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://linkedin.com/in/gouranga-das-samrat" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://gourangadas.netlify.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://gouranga-das.netlify.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=chrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:gouranga.das.khulna@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://leetcode.com/u/gourangadassamrat/" title="LeetCode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://codepen.io/gouranga-das-samrat" title="CodePen"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
