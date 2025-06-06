@@ -45,15 +45,8 @@
 
 ### 📹 Demo Video
 
-<!--
-Upload your demo video to GitHub and update the link below:
--->
-
-<!--
-[![Demo Video](https://img.shields.io/badge/DEMO-VIDEO-2ea44f?style=for-the-badge)](https://github.com/GourangaDasSamrat/Quiz-App-With-Fixed-Time/assets/demo.mp4)
--->
-
-🚧 _Demo video coming soon!_
+[Screencast from 2025-06-06 11-11-39.webm](https://github.com/user-attachments/assets/81517af1-e49f-4f84-933c-3a3361cc66f0)
+!_
 
 </div>
 
